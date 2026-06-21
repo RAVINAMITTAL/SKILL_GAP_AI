@@ -70,8 +70,8 @@ Final Answer 🎯
 ──────────────────────────────────────────────────────────────
 
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/rag-project.git
-cd rag-project
+git clone https://github.com/RAVINAMITTAL/SKILL_GAP_AI.git
+cd SKILL_GAP_AI
 
 2️⃣ Create Virtual Environment
 python -m venv venv
